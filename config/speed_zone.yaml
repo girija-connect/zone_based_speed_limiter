@@ -1,0 +1,7 @@
+speed_limiter:
+  ros__parameters:
+
+    max_speed: 0.1
+
+    polygon_x: [1.8, 1.8, 0.4, 0.4]
+    polygon_y: [0.6, -1.6, -1.6, 0.6]
